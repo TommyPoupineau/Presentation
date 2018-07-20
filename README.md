@@ -1,3 +1,17 @@
-<h4>Lettre de motivation de POUPINEAU Tommy</h4>
-<p><h1>Titre</h1></p>
-![img](https://user-images.githubusercontent.com/39993585/41349720-109b2e34-6f11-11e8-90b4-1d682750790f.png)
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<h1>Présentation POUPINEAU Tommy</h1>
+	</head>
+
+	<body>
+		<nav>
+			<ul><a>Mes Projets</a></ul>
+			<ul><a>Mes Hobbies</a></ul>
+			<ul><a>Mon CV</a></ul>
+			<ul><a>Mon Contact</a></ul>
+		</nav>	
+		<div>
+			Poupineau Tommy, né le 12 juillet 1996, est depuis tout petit, fan des ordinateurs et de leur technologie. Étant plus jeune, je souhaitais devenir programmeur, le code m'a toujours passionné, partir de pas grand chose pour réaliser d'énormes projets, passer par bon nombre de difficultés, se voir progresser drastiquement dans ce domaine est réjouissant. 
+		</div>
