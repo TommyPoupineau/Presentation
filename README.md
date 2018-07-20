@@ -4,7 +4,6 @@
 		<meta charset="utf-8" />
 		<h1>Présentation POUPINEAU Tommy</h1>
 	</head>
-
 	<body>
 		<nav>
 			<ul><a>Mes Projets</a></ul>
