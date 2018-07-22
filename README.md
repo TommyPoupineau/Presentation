@@ -13,8 +13,8 @@
 			<p>J'ai suivi ce chemin et je suis donc ici, à créer mon premier "site" en HTML pour me présenter à vous, alors c'est pas très ésthétique, mais je compte devenir Web Développeur, pas Web Designer. Donc le code est des plus basique, rien d'extraordinaire je l'avoue. Mais j'aprends vite, je m'adapte vite, et je pense être digne de cette formation.</p>
 			<nav>
 					<ul>
-						<li><a href="https://www.twitch.tv/">Mon site favori</a></li> (Streamer à l'occasion)
-						<li><a href="http://www.tiralarc-37.com/wp-content/uploads/2017/11/SALL-LACROIX-26nov2017.pdf">Ma passion</a></li> (Participation à deux Championnats de France)
+						<li><a href="https://www.twitch.tv/" target="_blank">Mon site favori</a></li> (Streamer à l'occasion)
+						<li><a href="http://www.tiralarc-37.com/wp-content/uploads/2017/11/SALL-LACROIX-26nov2017.pdf" target="_blank">Ma passion</a></li> (Participation à deux Championnats de France)
 					</ul>
 				</nav>
 			<p>PS: Navré du retard pour cet exercice, je n'ai pas d'excuses pour me justifier.</p>
