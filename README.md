@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>POUPINEAU Tommy</title>
+		<h1>POUPINEAU Tommy</h1>
 	</head>
 	<body>
 		<div>
